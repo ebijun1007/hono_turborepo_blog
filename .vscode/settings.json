@@ -3,5 +3,7 @@
     {
       "mode": "auto"
     }
-  ]
+  ],
+  "editor.formatOnSave": true, // 保存時のフォーマット有効化
+  "editor.defaultFormatter": "biomejs.biome"
 }
